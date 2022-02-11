@@ -1,0 +1,7 @@
+@charset "EUC-KR";
+
+#content > #section {
+	width: 1350px;
+	height: 800px;
+	float: left;
+}
